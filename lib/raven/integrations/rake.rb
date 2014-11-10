@@ -1,4 +1,5 @@
 require 'raven'
+require 'rake'
 require 'rake/task'
 
 module Rake
